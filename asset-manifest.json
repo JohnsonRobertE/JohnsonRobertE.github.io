@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a545580.css",
-    "main.js": "/static/js/main.00bb556b.js",
+    "main.css": "/static/css/main.6841e878.css",
+    "main.js": "/static/js/main.a6141268.js",
     "static/media/me.jpg": "/static/media/me.e733fc2402f375dc786b.jpg",
     "static/media/Background.jpg": "/static/media/Background.5b27437ba009986f776d.jpg",
+    "static/media/spring.png": "/static/media/spring.1a753d3a09a8df3cec6c.png",
     "static/media/UIP-Readme1.png": "/static/media/UIP-Readme1.7af9de747cac71583450.png",
     "static/media/UIP-Readme2.png": "/static/media/UIP-Readme2.d04caea81b72ea73f4ce.png",
+    "static/media/react.png": "/static/media/react.f4dee1e8c8b7082c2a44.png",
     "static/media/CodersCrux2Regular-grnR.ttf": "/static/media/CodersCrux2Regular-grnR.affb94b27c3a6bd643aa.ttf",
+    "static/media/mySql.png": "/static/media/mySql.9ca513fb589c89bbf5b9.png",
+    "static/media/java-script.png": "/static/media/java-script.78206ba65e01c7d57080.png",
     "static/media/Gmail-Email-PNG-Pic.png": "/static/media/Gmail-Email-PNG-Pic.d765005ce9d4caa3d69e.png",
     "index.html": "/index.html",
-    "main.6a545580.css.map": "/static/css/main.6a545580.css.map",
-    "main.00bb556b.js.map": "/static/js/main.00bb556b.js.map"
+    "main.6841e878.css.map": "/static/css/main.6841e878.css.map",
+    "main.a6141268.js.map": "/static/js/main.a6141268.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a545580.css",
-    "static/js/main.00bb556b.js"
+    "static/css/main.6841e878.css",
+    "static/js/main.a6141268.js"
   ]
 }
